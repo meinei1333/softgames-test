@@ -1,0 +1,68 @@
+{"frames": [
+
+{
+	"filename": "awkward.png",
+	"frame": {"x":1,"y":1692,"w":263,"h":263},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":10,"w":263,"h":263},
+	"sourceSize": {"w":283,"h":283}
+},
+{
+	"filename": "disappointed.png",
+	"frame": {"x":1,"y":587,"w":283,"h":283},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":283,"h":283},
+	"sourceSize": {"w":283,"h":283}
+},
+{
+	"filename": "face.png",
+	"frame": {"x":1,"y":1424,"w":265,"h":266},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":7,"w":265,"h":266},
+	"sourceSize": {"w":283,"h":283}
+},
+{
+	"filename": "heart.png",
+	"frame": {"x":1,"y":872,"w":283,"h":283},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":283,"h":283},
+	"sourceSize": {"w":283,"h":283}
+},
+{
+	"filename": "omg.png",
+	"frame": {"x":1,"y":1,"w":283,"h":299},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":283,"h":299},
+	"sourceSize": {"w":283,"h":299}
+},
+{
+	"filename": "openhand.png",
+	"frame": {"x":1,"y":1157,"w":283,"h":265},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":283,"h":265},
+	"sourceSize": {"w":283,"h":283}
+},
+{
+	"filename": "Smliing.png",
+	"frame": {"x":1,"y":302,"w":283,"h":283},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":283,"h":283},
+	"sourceSize": {"w":283,"h":283}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "emoij.png",
+	"format": "RGBA8888",
+	"size": {"w":285,"h":1956},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:38f9f371e402b7078ace65449e748736:27c1214428753c99ab78a6d6543b1d18:5ba74e4b305730b8beeedc444af0a2b3$"
+}
+}
